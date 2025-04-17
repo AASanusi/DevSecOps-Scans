@@ -1,5 +1,3 @@
-# DevSecOps-Scans
-
 # DevSecOps Projects Overview
 
 ## Introduction
